@@ -1,0 +1,1 @@
+This is a static webpage using AWS lambda serverless architecture. The static pages are hosted in aws s3 bucket and cognito is used as authorizers for the application and all crud operations are implemented.
